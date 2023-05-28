@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "find-job",
-    "slug": "find-job"
+    "slug": "find-job",
+    "extra": {
+      "RAPID_API_KEY": "REACT_APP_API_KEY"
+    }
   }
 }
